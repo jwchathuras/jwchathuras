@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Chathura 👋
 
-<!--
-**jwchathuras/jwchathuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Site Reliability / Infrastructure Engineer with 12+ years of experience
+building highly available cloud platforms.
 
-Here are some ideas to get you started:
+## Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS
+- GCP
+- Kubernetes
+- Terraform
+- Linux
+- Gitlab
+- ArgoCD
+- Prometheus
+- Grafana
+- DevSecOps
+- Platform Engineering
+
+Currently interested in:
+
+- AI Infrastructure
+- Distributed Systems
+- Infrastructure Reliability
+- Kubernetes at Scale
+
+LinkedIn:
+https://www.linkedin.com/in/chathura-sandaruwan
